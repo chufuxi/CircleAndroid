@@ -1,0 +1,2 @@
+rootProject.name = "Circle Application"
+include ':app'
